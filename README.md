@@ -38,6 +38,7 @@ Codebook.md - Describes the variables, the data, and any transformations or work
 run_analysis.R - The R code used to generate a tidy summarized data set using Training and test data sets available in the working directory.
 
 
-============================================= 
+
+
 For more information about this dataset contact: shubham.mpb95@gmail.com
 
