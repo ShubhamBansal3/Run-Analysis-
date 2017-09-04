@@ -1,8 +1,8 @@
-==================================================================
+
 Human Activity Recognition Using Smartphones summarized Tidy Dataset
 ==================================================================
 Shubham Bansal
-Github:- 
+Github:- https://github.com/ShubhamBansal3/Run-Analysis-
 ==================================================================
 
 Training and Test data sets for human activity recognition using smartphones were merged to create a Tidy Summarized 
